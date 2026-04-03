@@ -11,3 +11,18 @@
 ### Strict Rule
 
 Always extract relevant patterns before answering. Never answer with generic advice.
+
+---
+
+## AIへの引き継ぎ
+
+新しいAIセッションを開始するときは、以下を読ませてください。
+
+### 共通原則（personal-os）
+- https://raw.githubusercontent.com/koji140/personal-os/main/operating-system.md
+- https://raw.githubusercontent.com/koji140/personal-os/main/decision-principles.md
+
+### このプロジェクト固有
+- コミュニケーションルール：https://raw.githubusercontent.com/koji140/km-memory/main/knowledge/communication_rules.md
+- パターン：https://raw.githubusercontent.com/koji140/km-memory/main/knowledge/patterns.md
+- システムプロンプト：https://raw.githubusercontent.com/koji140/km-memory/main/system_prompt.md
