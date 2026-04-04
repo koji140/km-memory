@@ -23,6 +23,7 @@ Always extract relevant patterns before answering. Never answer with generic adv
 - https://raw.githubusercontent.com/koji140/personal-os/main/decision-principles.md
 
 ### このプロジェクト固有
+- 全体像・安定パターン：https://raw.githubusercontent.com/koji140/km-memory/main/summaries/weekly_summary.md
 - コミュニケーションルール：https://raw.githubusercontent.com/koji140/km-memory/main/knowledge/communication_rules.md
 - パターン：https://raw.githubusercontent.com/koji140/km-memory/main/knowledge/patterns.md
 - システムプロンプト：https://raw.githubusercontent.com/koji140/km-memory/main/system_prompt.md
